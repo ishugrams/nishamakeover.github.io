@@ -1,0 +1,91 @@
+div.col-lg-6{
+    background-color: #b90e72;
+    
+}
+h1{
+    color: beige;
+    text-align: center;
+    position: static;
+    background-color: #b90e72;
+
+}
+img{
+    width: 30%;
+}
+.feature box{
+    text-align: center;
+    padding: 5%
+
+  }
+#features{
+    padding: 7% 15%;
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    background-color: #b90e72;
+    backface-visibility: visible;
+}  
+h4{
+    color: #630606;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #D885A3;
+    font-style: oblique;
+    
+}
+h5{
+    color: #323232;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #D885A3;
+    font-style: normal;
+   
+}
+nav{
+    height: 100px;
+    background-color: #b90e72;
+    
+}
+h3{
+    font-size: 50px;
+    position: relative;
+}
+h1{
+ 
+}
+#features{
+    width: 100%;
+}
+div.card-header{
+    text-align: center;
+}
+div.box{
+    background-color: #b90e72;
+}
+#cta{
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+  }
+  .cta-heading{
+    font-family: "Montserrat-Black"
+  }
+  .cta-heading{
+    font-size: 3.5rem;
+    line-height: 1.5;
+  }
+  #footer{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+  }
+.list{
+    color: black;
+    text-align: left;
+    font-size: 40px;
+    font-style: italic;
+}
